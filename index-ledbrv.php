@@ -1,2 +1,2 @@
-AWS OpsWorks Win!
+Yes, OpsWorks Win!
 <?php php_info(); ?>
